@@ -1,16 +1,18 @@
-# 🚀 Chinthala Revanth Reddy - Portfolio
+# Chinthala Revanth Reddy - Portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://revanth-045.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/revanth-045)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/revanth-chinthala)
 
-## 🌐 Live Website
+## Live Website
+
 **[https://revanth-045.github.io/](https://revanth-045.github.io/)**
 
-## 👨‍💻 About Me
-Passionate and self-motivated B.Tech student specializing in Java, Data Structures & Algorithms (DSA). Skilled in Full-Stack web development with 150+ problems solved on LeetCode, showcasing problem-solving and algorithmic thinking.
+## About Me
 
-## 🛠️ Tech Stack
+I'm a passionate and self-motivated B.Tech student specializing in Java, Data Structures & Algorithms (DSA). I'm skilled in Full-Stack web development with 150+ problems solved on LeetCode, which showcases my problem-solving and algorithmic thinking abilities.
+
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -35,22 +37,27 @@ Passionate and self-motivated B.Tech student specializing in Java, Data Structur
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 🎓 Education
+## Education
+
 **Sreenidhi Institute of Science and Technology, Hyderabad**
 - B.Tech in Information Technology
 - Expected Graduation: 2026
 
-## 📊 Featured Projects
+## Featured Projects
+
 - **Food Ordering Application** - Full-stack MERN app
 - **To-Do List App** - Task management application
 
-## 🤖 AI Chatbot
+## AI Chatbot
+
 This portfolio features an AI-powered chatbot that can answer questions about my skills and experience!
 
-## 📫 Contact
-- 📧 Email: revanthreddych063@gmail.com
-- 📱 Phone: +91 9182981954
-- 📍 Location: Hyderabad, India
+## Contact
+
+- **Email:** revanthreddych063@gmail.com
+- **Phone:** +91 9182981954
+- **Location:** Hyderabad, India
 
 ---
-⭐ Star this repo if you like it!
+
+Feel free to star this repo if you find it helpful!
