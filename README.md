@@ -42,7 +42,7 @@ This portfolio features an AI-powered chatbot that can answer questions about my
 ## Links
 
 - **GitHub:** https://github.com/revanth-045
-- **LinkedIn:** https://linkedin.com/in/revanth-reddy-chinthala
+- **LinkedIn:** linkedin.com/in/revanth-reddy-chinthala-661794334
 
 ---
 
